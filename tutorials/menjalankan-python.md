@@ -26,7 +26,7 @@ Untuk menjalankan Python ada banyak cara yang bisa dilakukan. Anda bisa mengguna
 8. Script Python Anda akan dieksekusi/dijalankan.
 
 ### Windows
-1. Buka Python sheel, Anda bisa mencarinya di tombol <kbd>START</kbd>.
+1. Buka Python shell, Anda bisa mencarinya di tombol <kbd>START</kbd>.
 2. Tuliskan script Python Anda, contoh: `print("Selamat datang di Python")`. jika sudah tekan tombol <kbd>ENTER</kbd>, dan script Python akan dijalankan/eksekusi.
 3. Untuk keluar dari sheel Python ketik `exit()`
 
